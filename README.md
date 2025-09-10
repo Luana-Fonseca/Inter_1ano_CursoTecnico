@@ -5,6 +5,10 @@ A ODS em que o trabalho foi desenvolvido foi a ODS 6 Água Potável e Saneamento
 
 OBS.: Este não foi o meu primeiro contato com as linguagens de marcação HTML e CSS, porém como era um trabalho em equipe todos deveriam colocar suas habilidades e conhecimentos adquiridos dentro e fora do ensino dado dentro da unidade escolar.
 
+### 📷 Prévia
+
+<img width="1883" height="923" alt="image" src="https://github.com/user-attachments/assets/6b859eb0-6525-44b6-98fb-f31c71c8d1a1" />
+
 ### Acesse o site aqui:
 
 https://luana-fonseca.github.io/Inter_1ano_CursoTecnico/
